@@ -6,7 +6,7 @@
 
 
 
-:pencil: 12/28-1/3 
+:pencil: [12/28-1/3 ](https://github.com/jandifarm/dalsomin/blob/main/12%EC%9B%9428%EC%9D%BC-1%EC%9B%943%EC%9D%BC.md)
 
 :pencil: 1/4-1/10
 
